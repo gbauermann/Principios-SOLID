@@ -1,4 +1,6 @@
-﻿namespace Single_Responsibility_Principle
+﻿using Models;
+
+namespace Single_Responsibility_Principle
 {
     public class PersonValidator
     {
